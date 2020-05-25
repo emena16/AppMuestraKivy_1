@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="FILTER_RESOLVED_ITEMS" value="false" />
+    <option name="SHOW_STRUCTURE" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c612ceb2-2e15-4881-8455-84da81789786" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/calculadoraApp.kv" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1cHwCfILMYQMPL2eSLbccrUovay" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="inpector" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="calculadora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inpector" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="calculadora" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.inpector" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c612ceb2-2e15-4881-8455-84da81789786" name="Default Changelist" comment="" />
+      <created>1590198700288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590198700288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1590201931229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1590201931229" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590365444181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590365444181" />
+    <state x="446" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590284701267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590284701267" />
+    <state x="443" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1590208264215">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1590208264215" />
+    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1590360197210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1590360197210" />
+    <state x="441" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590202682177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1590202682177" />
+    <state x="647" y="105" key="FileChooserDialogImpl" timestamp="1590208260564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="647" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590208260564" />
+    <state width="1328" height="173" key="GridCell.Tab.0.bottom" timestamp="1590368236111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590368236111" />
+    <state width="1328" height="173" key="GridCell.Tab.0.center" timestamp="1590368236111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590368236111" />
+    <state width="1328" height="173" key="GridCell.Tab.0.left" timestamp="1590368236111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590368236111" />
+    <state width="1328" height="173" key="GridCell.Tab.0.right" timestamp="1590368236111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590368236111" />
+    <state width="1345" height="214" key="GridCell.Tab.1.bottom" timestamp="1590366670037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590366670037" />
+    <state width="1345" height="214" key="GridCell.Tab.1.center" timestamp="1590366670037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590366670037" />
+    <state width="1345" height="214" key="GridCell.Tab.1.left" timestamp="1590366670037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590366670037" />
+    <state width="1345" height="214" key="GridCell.Tab.1.right" timestamp="1590366670037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590366670037" />
+    <state x="368" y="6" key="SettingsEditor" timestamp="1590284397599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590284397599" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1590202610968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1590202610968" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590359317190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590359317190" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>
